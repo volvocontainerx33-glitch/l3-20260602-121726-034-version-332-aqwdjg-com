@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-05-24T17:07:28.148264Z",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "m3u8_sources": 20,
+  "cover_rule": "X = ((N - 1) % 150) + 1",
+  "contains_jpg": false
+}
